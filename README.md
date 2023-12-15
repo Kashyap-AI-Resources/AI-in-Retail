@@ -3,10 +3,10 @@ In the realm of retail, Artificial Intelligence (AI) emerges as a transformative
 ## Resources
 
 ### Data Sources
-[Dataset for Data Analytics and Sales Prediction](https://www.kaggle.com/datasets/manjeetsingh/retaildataset)
+#### [Dataset for Data Analytics and Sales Prediction](https://www.kaggle.com/datasets/manjeetsingh/retaildataset): 
 * Related ML Implementations
-  * [Fraud or not classification](https://www.kaggle.com/code/arditriana/fraud-detection-classification)
-  * [A data study and basic random forest classifier](https://www.kaggle.com/code/abnerfreitas/fraud-detection-example-study)
+  * [Retail Sales Forecast](https://www.kaggle.com/code/shakhauat/retail-sales-data-forecast)
+  * [Forecasting using Exponential Smoothing](https://www.kaggle.com/code/danieldobrenz/forcasting-using-exponential-smoothing)
 ### Insightful Articles and Opinions
 [5 Examples of AI in Retail](9https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-retail/#:~:text=What%20are%20examples%20of%20AI,management%2C%20and%20customer%20sentiment%20analysis.)
 ### Learn
