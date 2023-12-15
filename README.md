@@ -9,5 +9,8 @@ In the realm of retail, Artificial Intelligence (AI) emerges as a transformative
   * [Forecasting using Exponential Smoothing](https://www.kaggle.com/code/danieldobrenz/forcasting-using-exponential-smoothing)
 ### Insightful Articles and Opinions
 [5 Examples of AI in Retail](https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-retail/#:~:text=What%20are%20examples%20of%20AI,management%2C%20and%20customer%20sentiment%20analysis.)
-### Learn
+
+[How AI is Changing the HR Landscape - Hitachi Solutions](https://global.hitachi-solutions.com/blog/ai-in-retail/)
+
+[Intel Explains AI in Retail](https://www.intel.com/content/www/us/en/retail/solutions/ai-in-retail.html)
 
